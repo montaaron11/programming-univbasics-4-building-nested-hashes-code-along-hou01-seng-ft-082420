@@ -5,5 +5,3 @@ def first_challenge
    }
 end
 
-#{"Lord Montague", "Lady Montague", "Romeo"},
-#{"Lord Capulet", "Lady Capulet", "Juliet"}
